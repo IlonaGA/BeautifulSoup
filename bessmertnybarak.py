@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import requests as req
 from tqdm import tqdm
 
+
 hrefs = []
 names = []
 start_href = 'https://bessmertnybarak.ru'
